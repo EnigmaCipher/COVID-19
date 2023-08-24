@@ -17,7 +17,3 @@ The AutoCorrelation code:
 
 The AR_diff_Lag_Values code:
 * Applys the AR model for different values of lag days and calculates the errors.
-
-# Input Dataset
-
-![image](https://user-images.githubusercontent.com/119813195/228895308-59ea1cd3-da5c-4a55-9c4d-7b632c6f232d.png)
